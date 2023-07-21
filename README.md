@@ -4,3 +4,4 @@
 - GORM library is used for connecting the DB
 - GIN framework is used for creating APIs.
 - APIs for CRUD operations are created.
+- For DB, docker image of postgres is used.
